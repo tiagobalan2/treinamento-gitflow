@@ -14,3 +14,8 @@ def multiplicacao(a, b):
     return a * b
 
 print(multiplicacao(10, 10))
+
+def potenciacao(a, b):
+    return a ** b
+
+print(potenciacao(2, 3))
