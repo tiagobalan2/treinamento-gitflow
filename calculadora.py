@@ -9,3 +9,8 @@ def subtracao(a, b):
     return a - b
 
 print(subtracao(10, 5))
+
+def multiplicacao(a, b):
+    return a * b
+
+print(multiplicacao(10, 10))
